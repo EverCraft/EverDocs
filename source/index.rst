@@ -13,32 +13,56 @@ Plugins
 EverAPI
 ~~~~~~~
 
-:doc:`everapi/index`
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    everapi/index
 
 EverChat
 ~~~~~~~
 
-:doc:`everchat/index`
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    everchat/index
 
 EverEconomy
 ~~~~~~~
 
-:doc:`evereconomy/index`
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    evereconomy/index
 
 EverInformations
 ~~~~~~~
 
-:doc:`everinformations/index`
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    everinformations/index
 
 EverPermissions
 ~~~~~~~
 
-:doc:`everpermissions/index`
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    everpermissions/index
 
 EverWorldGuard
 ~~~~~~~
 
-:doc:`everworldguard/index`
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    everworldguard/index
 	
 Liens
 ~~~~~
