@@ -10,9 +10,35 @@ Bienvenue sur le wiki d'Evercraft. Vous y trouverez toutes les informations à s
 Plugins
 ========
 
-.. toctree::
+EverAPI
+~~~~~~~
 
-   *
+:doc:`everapi/index`
+
+EverChat
+~~~~~~~
+
+:doc:`everchat/index`
+
+EverEconomy
+~~~~~~~
+
+:doc:`evereconomy/index`
+
+EverInformations
+~~~~~~~
+
+:doc:`everinformations/index`
+
+EverPermissions
+~~~~~~~
+
+:doc:`everpermissions/index`
+
+EverWorldGuard
+~~~~~~~
+
+:doc:`everworldguard/index`
 	
 Liens
 ~~~~~
