@@ -10,14 +10,11 @@ Bienvenue sur le wiki d'Evercraft. Vous y trouverez toutes les informations à s
 Plugins
 ========
 
-EverAPI
-~~~~~~~
-
 .. toctree::
     :maxdepth: 2
     :titlesonly:
 
-    everapi/index
+    index
 	
 Liens
 ~~~~~
