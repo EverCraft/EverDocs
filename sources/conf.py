@@ -28,7 +28,7 @@ needs_sphinx = '1.0'
 # jdlinker: To link Javadocs in the documentation
 # sphinx.ext.todo: Allows using TODO elements in the documentation
 # sphinx.ext.githubpages: Adds .nojekyll to the output directory
-extensions = ['jdlinker', 'sphinx.ext.todo', 'sphinx.ext.githubpages']
+extensions = ['sphinx.ext.todo', 'sphinx.ext.githubpages']
 
 # Add any paths that contain templates here, relative to this directory.
 # templates_path = ['.templates']
@@ -82,16 +82,6 @@ todo_include_todos = False
 # standard gettext module.
 locale_dirs = ['../locale/']
 
-# If true, a document’s text domain is its docname if it is a top-level
+# If true, a documentâ€™s text domain is its docname if it is a top-level
 # project file and its very base directory otherwise.
 gettext_compact = False
-
-# -- sphinx-JDLinker Configuration ----------------------------------------
-
-javadoc_links = {
-    'https://docs.oracle.com/javase/8/docs/api/': ['java'],
-    'https://google.github.io/guava/releases/17.0/api/docs/': ['com.google.common']
-}
-
-# Set to true to enable sphinx-JDLinker debug dump.
-javadoc_dump = False
