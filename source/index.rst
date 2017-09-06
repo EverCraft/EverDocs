@@ -20,7 +20,7 @@ EverAPI
     everapi/index
 
 EverChat
-~~~~~~~
+~~~~~~~~
 
 .. toctree::
     :maxdepth: 2
@@ -29,7 +29,7 @@ EverChat
     everchat/index
 
 EverEconomy
-~~~~~~~
+~~~~~~~~~~~
 
 .. toctree::
     :maxdepth: 2
@@ -38,7 +38,7 @@ EverEconomy
     evereconomy/index
 
 EverInformations
-~~~~~~~
+~~~~~~~~~~~~~~~~
 
 .. toctree::
     :maxdepth: 2
@@ -47,7 +47,7 @@ EverInformations
     everinformations/index
 
 EverPermissions
-~~~~~~~
+~~~~~~~~~~~~~~~
 
 .. toctree::
     :maxdepth: 2
@@ -56,7 +56,7 @@ EverPermissions
     everpermissions/index
 
 EverWorldGuard
-~~~~~~~
+~~~~~~~~~~~~~~
 
 .. toctree::
     :maxdepth: 2
@@ -66,6 +66,12 @@ EverWorldGuard
 	
 Liens
 ~~~~~
+
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    minecraft/index
 
 .. toctree::
     :maxdepth: 2
