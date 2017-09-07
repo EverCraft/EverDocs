@@ -30,9 +30,9 @@ Il est possible de choisir un format différent pour chaque groupe :
 .. code-block:: none
 
 	format-groups {
-	   Admin="&f[&4Admin&f] <DISPLAYNAME_FORMAT> &7:&f <MESSAGE>"
-	   Moderator="&f[&5Mod&f] <DISPLAYNAME_FORMAT> &7:&f <MESSAGE>"
-	   Player="&f[&aPlayer&f] <DISPLAYNAME_FORMAT> &7:&f <MESSAGE>"
+	   Admin="&f[&4Admin&f] <DISPLAYNAME> &7:&f <MESSAGE>"
+	   Moderator="&f[&5Mod&f] <DISPLAYNAME> &7:&f <MESSAGE>"
+	   Player="&f[&aPlayer&f] <DISPLAYNAME> &7:&f <MESSAGE>"
 	}
 
 Format par défaut
@@ -42,4 +42,4 @@ Cependant si le groupe du joueur n'est pas dans la liste des groupes, le format 
 
 .. code-block:: none
 
-	format-default="<DISPLAYNAME_FORMAT> &7:&f <MESSAGE>"
+	format-default="<DISPLAYNAME> &7:&f <MESSAGE>"

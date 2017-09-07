@@ -15,6 +15,7 @@ Le plugin EverChat permet de gérer la mise en forme du tchat.
    
    format_chat
    format_displayname
+   icons
 
 Fonctionnalités
 ~~~~~~~~~~~~~~~
@@ -22,8 +23,19 @@ Fonctionnalités
 Voici les différentes fonctionnalités du plugin :
 
 - Formatage du tchat
-- Affiche le préfix et le suffix du joueur dans le tchat
-- Affiche diverses informations en survolant le pseudo d'un joueur dans le tchat
-- Suggérer une commande quand on clique sur le pseudo d'un joueur dans le tchat
-- Affiche les icônes dans le tchat grâce à un pack de texture personnalisé
+- Affiche le `préfix <format_displayname.html#prefix>`_ et le `suffix <format_displayname.html#suffit>`_ du joueur dans le tchat
+- `Affiche diverses informations en survolant le pseudo d'un joueur dans le tchat <format_displayname.html#hover>`_
+- `Suggérer une commande quand on clique sur le pseudo d'un joueur dans le tchat <format_displayname.html#suggest>`_
+- :doc:`Affiche les icônes dans le tchat grâce à un pack de texture personnalisé <icons>`
 - :doc:`Possibilité d'écrire en couleur dans le tchat <../minecraft/format>`
+
+Liens
+~~~~~
+
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+-  `Télécharger <https://github.com/EverCraft/EverChat/releases>`_
+-  `Code source <https://github.com/EverCraft/EverChat>`_
+-  `Issues <https://github.com/EverCraft/EverChat/issues>`_
