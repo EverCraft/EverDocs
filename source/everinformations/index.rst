@@ -9,6 +9,11 @@ Le plugin EverInformations.
    
    commands
    automessage/index
+   newbie/index
+   connection/index
+   scoreboard/index
+   tablist/index
+   nametag/index
    
 Fonctionnalités
 ~~~~~~~~~~~~~~~
@@ -16,18 +21,18 @@ Fonctionnalités
 Voici les différentes fonctionnalités du plugin :
 
 - AutoMessage (:doc:`Chat <automessage/chat>`, :doc:`Title <automessage/title>`, :doc:`ActionBar <automessage/actionbar>`, :doc:`BossBar <automessage/bossbar>`)
-- TabList (Header, Footer)
-- NameTag (Prefix, Suffix)
-- Message de bienvenue (Chat, Title, ActionBar, BossBar) :
+- TabList (:doc:`Header <tablist/header>`, :doc:`Footer <tablist/footer>`)
+- NameTag (:doc:`Prefix <nametag/prefix>`, :doc:`Suffix <nametag/suffix>`)
+- Message de bienvenue (:doc:`Chat <newbie/chat>`, :doc:`Title <newbie/title>`, :doc:`ActionBar <newbie/actionbar>`, :doc:`BossBar <newbie/bossbar>`) :
 	- Pour le nouveau joueur
 	- Pour les autres joueurs
-- Message de connexion (Chat, Title, ActionBar, BossBar) :
+- Message de connexion (:doc:`Chat <connection/chat>`, :doc:`Title <connection/title>`, :doc:`ActionBar <connection/actionbar>`, :doc:`BossBar <connection/bossbar>`) :
 	- Pour le joueur qui se connecte (MOTD)
 	- Pour les autres joueurs
 - ScoreBoard (Money, Heal, Level, EXP, Online, Food):
-	- BelowName :
-	- List :
-	- SideBar : Informations, Top économie
+	- :doc:`SideBar <scoreboard/sidebar>` : Informations, Top économie
+	- :doc:`BelowName <scoreboard/belowname>` :
+	- :doc:`List <scoreboard/list>` :
 
 Liens
 ~~~~~

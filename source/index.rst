@@ -36,6 +36,15 @@ EverEconomy
     :titlesonly:
 
     evereconomy/index
+	
+EverEssentials
+~~~~~~~~~~~
+
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    everessentials/index
 
 EverInformations
 ~~~~~~~~~~~~~~~~

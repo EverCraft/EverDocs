@@ -18,7 +18,7 @@ Activation
 
 Tout d'abord il faut activer le formatage du tchat :
 
-.. code-block:: none
+.. code-block:: bash
 
 	enable-format=true
 
@@ -27,7 +27,7 @@ Format des groupes
 
 Il est possible de choisir un format différent pour chaque groupe :
 
-.. code-block:: none
+.. code-block:: bash
 
 	format-groups {
 	   Admin="&f[&4Admin&f] <DISPLAYNAME> &7:&f <MESSAGE>"
@@ -40,6 +40,6 @@ Format par défaut
 
 Cependant si le groupe du joueur n'est pas dans la liste des groupes, le format par défaut sera appliqué :
 
-.. code-block:: none
+.. code-block:: bash
 
 	format-default="<DISPLAYNAME> &7:&f <MESSAGE>"

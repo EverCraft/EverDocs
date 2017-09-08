@@ -1,4 +1,4 @@
-=========
+ï»¿=========
 Commandes
 =========
 
@@ -8,7 +8,7 @@ Commandes
 	
 La liste des commandes du plugin EverEconomy.
 
-Générale
+GÃ©nÃ©rale
 ~~~~~~~~
 
 Gestion du plugin

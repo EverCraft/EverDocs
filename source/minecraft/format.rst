@@ -74,7 +74,7 @@ Couleurs
 		<td><code class="docutils literal"><span class="pre">gray</span></code></td>
 	</tr>
 	<tr class="row-even">
-		<td style="background: #55555"></td>
+		<td style="background: #555555"></td>
 		<td><code class="docutils literal"><span class="pre">&amp;8</span></code></td>
 		<td>Gris foncé</td>
 		<td><code class="docutils literal"><span class="pre">dark_gray</span></code></td>
