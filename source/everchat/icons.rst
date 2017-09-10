@@ -8,7 +8,7 @@ Icônes
    :alt: EverChat description
    :align: right
 
-EverResourcePack est un pack texture qui rajoute uniquement des icônes. Le plugin EverChat permet de gérer facilement les icônes avec la commande "/icon".
+EverResourcePack est un pack de texture qui ajoute uniquement des icônes. Le plugin EverChat permet de gérer facilement les icônes avec la commande "/icon".
 
 Utilisation
 ~~~~~~~~~~~

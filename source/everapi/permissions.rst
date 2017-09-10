@@ -4,8 +4,8 @@ Permissions
 
 Générales
 ---------
-- ``everapi.selector`` : Permet d'utiliser les selectors dans les commandes
-- ``everapi.worlds.<monde>`` : Permet d'avoir accès à un monde
+- ``everapi.selector`` : Permet d'utiliser les selectors dans les commandes (Ex : @a)
+- ``everapi.worlds.<monde>`` : Permet au joueur d'avoir accès à un monde
 
 Commandes
 ---------

@@ -38,7 +38,7 @@ EverEconomy
     evereconomy/index
 	
 EverEssentials
-~~~~~~~~~~~
+~~~~~~~~~~~~~~
 
 .. toctree::
     :maxdepth: 2

@@ -8,7 +8,7 @@ AutoMessage
    :alt: EverInformations AutoMessage
    :align: right
 
-L'AutoMessage permet d'envoyer des messages aux joueurs dans un interval de temps.
+L'AutoMessage permet d'envoyer des messages aux joueurs dans **un interval de temps**.
 
 .. toctree::
    :maxdepth: 1

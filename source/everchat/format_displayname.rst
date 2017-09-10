@@ -10,12 +10,14 @@ Mise en forme du pseudo
 
 Le "DISPLAYNAME" est le nom du joueur avec le préfixe, le suffixe, le hover et le suggest. 
 
-Tous les éléments sont fournit par le service Permission, donc cela signifie qu'il peut-être définie par dans un groupe ou unique pour un joueur.
+Tous les éléments sont fourni par le service de Permission, donc cela signifie qu'il peut-être défini soit : 
+	- par dans un groupe
+	- pour un joueur spécifique 
 
 Prefix
 ~~~~~~
 
-Le préfixe est rajouté juste avant le pseudo du joueur : "**[Prefix]pseudo**".
+Le préfixe est ajouté avant le pseudo du joueur : "**[Prefix]pseudo**".
 
 La valeur du préfixe est récupéré à partir de l'option "**prefix**" fournit par le service de permission.
 
@@ -27,7 +29,7 @@ La valeur du préfixe est récupéré à partir de l'option "**prefix**" fournit
 Suffix
 ~~~~~~
 
-Le suffixe est rajouté juste après le pseudo du joueur : "pseudo[Suffix]"
+Le suffixe est ajouté après le pseudo du joueur : "pseudo[Suffix]"
 
 La valeur du préfixe est récupéré à partir de l'option "suffix" fournit par le service de permission.
 

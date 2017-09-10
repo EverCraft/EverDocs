@@ -8,7 +8,7 @@ Mise en forme du chat
    :alt: EverChat description
    :align: right
 
-Permet de faire la mise en page du tchat. Les format peuvent utiliser toutes les variables globales.
+EverChat est un plugin de mise en forme du tchat. Les mises en forme utilise toutes les variables globales.
 
 Le fichier de configuration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -16,7 +16,8 @@ Le fichier de configuration
 Activation
 ----------
 
-Tout d'abord il faut activer le formatage du tchat :
+Prérequis :
+	- Activer le formatage du tchat (``config\everchat\config.conf``)
 
 .. code-block:: bash
 

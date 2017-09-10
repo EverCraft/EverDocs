@@ -27,7 +27,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# Le temps d'apparition de chaque message (en seconde) 
 		stay=20
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT) (Par défaut : DEFAULT) (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -45,7 +45,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# Le temps d'apparition de chaque message (en seconde) 
 		stay=20
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT) (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -85,7 +85,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# Le temps d'apparition de chaque message (en seconde) 
 		stay=30
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT) (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -94,7 +94,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 			}
 		}
 		
-		# Le nom du groupe (ou l'UUID du groupe)
+		# Le nom du groupe (Par défaut : DEFAULT) (Par défaut : DEFAULT) (ou l'UUID du groupe)
 		"ad808c28-8636-4848-94a4-54a41292ac0d" {
 			# Message lors de la connexion du joueur
 			JOIN {				
@@ -127,7 +127,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# Le temps d'apparition de chaque message (en seconde) 
 		stay=30
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT) (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -148,7 +148,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 			}
 		}
 		
-		# Le nom du groupe (ou l'UUID du groupe)
+		# Le nom du groupe (Par défaut : DEFAULT) (Par défaut : DEFAULT) (ou l'UUID du groupe)
 		"ad808c28-8636-4848-94a4-54a41292ac0d" {
 			# Message lors de la connexion du joueur
 			JOIN {

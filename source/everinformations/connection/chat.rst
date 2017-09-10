@@ -15,7 +15,7 @@ Tous les messages sont définis dans le fichier de configuration et ils peuvent 
 Configuration simple
 ~~~~~~~~~~~~~~~~~~~~
 
-Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformations/connection/connection_chat.conf``
+Le fichier de configuration se trouve dans : ``/config/everinformations/connection/connection_chat.conf``
 
 .. code-block:: bash
 
@@ -24,7 +24,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# Permets d'activer ou de désactiver la fonctionnalité
 		enable=true
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -39,7 +39,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# Permets d'activer ou de désactiver la fonctionnalité
 		enable=true
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -64,7 +64,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 Configuration Avancée
 ~~~~~~~~~~~~~~~~~~~~~
 
-Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformations/connection/connection_chat.conf``
+Le fichier de configuration se trouve dans : ``/config/everinformations/connection/connection_chat.conf``
 
 .. code-block:: bash
 
@@ -73,7 +73,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# Permets d'activer ou de désactiver la fonctionnalité
 		enable=true
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -103,7 +103,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# Permets d'activer ou de désactiver la fonctionnalité
 		enable=true
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {

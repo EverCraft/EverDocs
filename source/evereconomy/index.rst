@@ -2,7 +2,7 @@
 EverEconomy
 ===========
 
-EverEconomy est un plugin permettant de gérer l'économie de votre serveur.
+EverEconomy est un plugin de gestion de l'économie sur votre serveur.
 
 .. toctree::
    :maxdepth: 1

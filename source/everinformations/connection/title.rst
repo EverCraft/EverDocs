@@ -27,7 +27,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# La durée pendant la quelle les titres et les sous-titres vont rester à l'écran (en seconde) 
 		stay=20
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -48,7 +48,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# Le titre
 		title=""
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -94,7 +94,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# La durée du fondu de sortie (en seconde)
 		fadeOut=1
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -142,7 +142,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# La durée du fondu de sortie (en seconde)
 		fadeOut=1
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {

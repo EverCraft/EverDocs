@@ -8,7 +8,7 @@ Gestion du plugin
 - **Description :** 
 	- **help :** Affiche l'aide du plugin
 	- **reload :** Recharge le plugin
-	- **plugins :** Affiche la liste des plugins qui utilise EverAPI ainsi que son statut
+	- **plugins :** Affiche la liste des plugins qui utilisent EverAPI ainsi que son statut (Activé / Désactivé)
 - **Permissions :** 
 	- ``everapi.commands.execute``
 	- ``everapi.commands.help``

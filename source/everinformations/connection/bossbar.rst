@@ -30,7 +30,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# La couleur de la BossBar (BLUE|GREEN|PINK|PURPLE|RED|WHITE|YELLOW)
 		color=RED
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -51,7 +51,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# La couleur de la BossBar (BLUE|GREEN|PINK|PURPLE|RED|WHITE|YELLOW)
 		color=RED
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -109,7 +109,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# Créer le brouillard
 		createFog=false
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {
@@ -163,7 +163,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 		# Créer le brouillard
 		createFog=false
 		
-		# Le nom du groupe
+		# Le nom du groupe (Par défaut : DEFAULT)
 		DEFAULT {
 			# Message lors de la connexion du joueur
 			JOIN {

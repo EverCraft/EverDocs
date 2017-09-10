@@ -35,7 +35,7 @@ Joueur
 Solde du compte
 ---------------
 - **Commande :** ``/balance [joueur]``
-- **Description :** Permet de connaître le solde d'un joueur
+- **Description :** Affiche le solde d'un joueur
 - **Permission :** 
 	- ``evereconomy.commands.balance.execute``
 	- ``evereconomy.commands.balance.others``
@@ -44,11 +44,11 @@ Solde du compte
 Balance Top 
 -----------
 - **Commande :** ``/balancetop``
-- **Description :** Permet de lister les joueurs possédant le plus de monnaie
+- **Description :** Lister les joueurs les plus riches
 - **Permission :** ``evereconomy.commands.balancetop.execute``
 	
 Payer un joueur
 ---------------
 - **Commande :** ``/pay <joueur> <quantité>``
-- **Description :** Permet d'envoyer de la monnaie à un autre joueur
+- **Description :** Envoyer de la monnaie à un autre joueur
 - **Permission :** ``evereconomy.commands.pay.execute``

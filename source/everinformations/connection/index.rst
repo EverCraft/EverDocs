@@ -8,7 +8,7 @@ Connection
    :alt: EverInformations Connection
    :align: right
 
-Connection permet de faire afficher des messages lors de la première connexion d'un joueur. Il existe deux types de messages : les messages pour le nouveau joueur et les messages pour les autres joueurs qui sont déjà connectés sur le serveur.
+Connection permet de faire afficher des messages lors de **la connexion d'un joueur**. Il existe deux types de messages : les messages pour le nouveau joueur et les messages pour les autres joueurs qui sont déjà connectés sur le serveur.
    
 .. toctree::
    :maxdepth: 1

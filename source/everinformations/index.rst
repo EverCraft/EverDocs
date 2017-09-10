@@ -12,8 +12,8 @@ Le plugin EverInformations.
    newbie/index
    connection/index
    scoreboard/index
-   tablist/index
-   nametag/index
+   tablist
+   nametag
    
 Fonctionnalités
 ~~~~~~~~~~~~~~~
@@ -21,8 +21,8 @@ Fonctionnalités
 Voici les différentes fonctionnalités du plugin :
 
 - AutoMessage (:doc:`Chat <automessage/chat>`, :doc:`Title <automessage/title>`, :doc:`ActionBar <automessage/actionbar>`, :doc:`BossBar <automessage/bossbar>`)
-- TabList (:doc:`Header <tablist/header>`, :doc:`Footer <tablist/footer>`)
-- NameTag (:doc:`Prefix <nametag/prefix>`, :doc:`Suffix <nametag/suffix>`)
+- TabList (Header, Footer)
+- NameTag (Prefix, Suffix)
 - Message de bienvenue (:doc:`Chat <newbie/chat>`, :doc:`Title <newbie/title>`, :doc:`ActionBar <newbie/actionbar>`, :doc:`BossBar <newbie/bossbar>`) :
 	- Pour le nouveau joueur
 	- Pour les autres joueurs

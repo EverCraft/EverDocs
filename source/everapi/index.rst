@@ -10,6 +10,7 @@ EverAPI est une librairie. Il est néccessaire d'avoir EverAPI pour pouvoir util
    commands
    permissions
    variables
+   scores
 
 Liens
 ~~~~~
@@ -20,5 +21,5 @@ Liens
 
 -  `Télécharger <https://github.com/EverCraft/EverAPI/releases>`_
 -  `Code source <https://github.com/EverCraft/EverAPI>`_
--  `Issues <https://github.com/EverCraft/EverAPI/issues>`_
+-  `Problème / Suggestion <https://github.com/EverCraft/EverAPI/issues>`_
     
