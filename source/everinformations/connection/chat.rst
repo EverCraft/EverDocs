@@ -2,7 +2,7 @@
 Chat
 ====
 
-.. image:: ../images/EverInformations_Newbie.png
+.. image:: ../images/EverInformations_Connection.png
    :height: 180px
    :width: 350px
    :alt: EverInformations Connection

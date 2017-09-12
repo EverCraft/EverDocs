@@ -13,6 +13,9 @@ Le plugin EverChat permet de gérer la mise en forme du tchat.
 .. toctree::
    :maxdepth: 1
    
+   commands
+   permissions
+   configs
    format_chat
    format_displayname
    icons
@@ -38,4 +41,4 @@ Liens
 
 -  `Télécharger <https://github.com/EverCraft/EverChat/releases>`_
 -  `Code source <https://github.com/EverCraft/EverChat>`_
--  `Issues <https://github.com/EverCraft/EverChat/issues>`_
+-  `Problème / Suggestion <https://github.com/EverCraft/EverChat/issues>`_

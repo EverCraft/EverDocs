@@ -8,6 +8,8 @@ EverEconomy est un plugin de gestion de l'économie sur votre serveur.
    :maxdepth: 1
    
    commands
+   permissions
+   configs
    
 Fonctionnalités
 ~~~~~~~~~~~~~~~

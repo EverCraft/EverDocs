@@ -1,6 +1,6 @@
-﻿============
-Autre suject
-============
+﻿=============
+Autre subject
+=============
 
 .. note::
 	- **<argument> :** argument obligatoire

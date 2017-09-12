@@ -15,7 +15,7 @@ Tous les messages sont définis dans le fichier de configuration et ils peuvent 
 Configuration simple
 ~~~~~~~~~~~~~~~~~~~~
 
-Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformations/automessage/automessage_bossbar.conf``
+Le fichier de configuration se trouve dans : ``/config/everinformations/automessage/automessage_bossbar.conf``
 
 .. code-block:: bash
 
@@ -42,7 +42,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 Configuration Avancée
 ~~~~~~~~~~~~~~~~~~~~~
 
-Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformations/automessage/automessage_bossbar.conf``
+Le fichier de configuration se trouve dans : ``/config/everinformations/automessage/automessage_bossbar.conf``
 
 .. code-block:: bash
 

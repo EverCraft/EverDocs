@@ -5,7 +5,7 @@ EverPermissions
 EverPermissions est un plugin de gestion de permissions pour les administrateurs de serveur. Il permet gérer les permissions des joueurs ou des groupes afin de créer des restrictions. Ce plugin est basé sur GroupManager tout en implémentant les fonctionnalités de SpongeAPI.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
    commands/index
 

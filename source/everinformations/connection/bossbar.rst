@@ -2,7 +2,7 @@
 BossBar
 =======
 
-.. image:: ../images/EverInformations_Newbie.png
+.. image:: ../images/EverInformations_Connection.png
    :height: 180px
    :width: 350px
    :alt: EverInformations Connection
@@ -15,7 +15,7 @@ Tous les messages sont définis dans le fichier de configuration et ils peuvent 
 Configuration simple
 ~~~~~~~~~~~~~~~~~~~~
 
-Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformations/connection/connection_bossbar.conf``
+Le fichier de configuration se trouve dans : ``/config/everinformations/connection/connection_bossbar.conf``
 
 .. code-block:: bash
 
@@ -76,7 +76,7 @@ Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformat
 Configuration Avancée
 ~~~~~~~~~~~~~~~~~~~~~
 
-Le fichier de configuration se trouve dans : ``/config/fr.evercraft.everinformations/connection/connection_bossbar.conf``
+Le fichier de configuration se trouve dans : ``/config/everinformations/connection/connection_bossbar.conf``
 
 .. code-block:: bash
 
