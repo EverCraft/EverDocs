@@ -8,6 +8,7 @@ Le plugin EverInformations.
    :maxdepth: 1
    
    commands
+   permissions
    configs
    automessage/index
    newbie/index

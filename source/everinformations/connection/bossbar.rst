@@ -74,7 +74,7 @@ Le fichier de configuration se trouve dans : ``/config/everinformations/connecti
 	}
 
 Configuration Avancée
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Le fichier de configuration se trouve dans : ``/config/everinformations/connection/connection_bossbar.conf``
 

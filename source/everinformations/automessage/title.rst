@@ -53,7 +53,7 @@ Le fichier de configuration se trouve dans : ``/config/everinformations/automess
 	]
 
 Configuration Avancée
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Le fichier de configuration se trouve dans : ``/config/everinformations/automessage/automessage_title.conf``
 

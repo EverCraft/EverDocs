@@ -8,6 +8,8 @@ EverPermissions est un plugin de gestion de permissions pour les administrateurs
    :maxdepth: 2
    
    commands/index
+   permissions
+   configs/index
 
 Fonctionnalités
 ~~~~~~~~~~~~~~~

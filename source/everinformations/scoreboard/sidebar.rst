@@ -45,7 +45,7 @@ Le fichier de configuration se trouve dans : ``/config/everinformations/scoreboa
 	]
 	
 Configuration Avancée
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 Le fichier de configuration se trouve dans : ``/config/everinformations/scoreboard/scoreboard_sidebar.conf``
 

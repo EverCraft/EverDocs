@@ -50,7 +50,7 @@ Le fichier de configuration se trouve dans : ``/config/everinformations/newbie/n
 	}
 
 Configuration Avancée
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Le fichier de configuration se trouve dans : ``/config/everinformations/newbie/newbie_title.conf``
 

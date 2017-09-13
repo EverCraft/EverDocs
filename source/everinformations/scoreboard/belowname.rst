@@ -29,7 +29,7 @@ Le fichier de configuration se trouve dans : ``/config/everinformations/scoreboa
 	name="&4❤"
 	
 Configuration Avancée
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Le fichier de configuration se trouve dans : ``/config/everinformations/scoreboard/scoreboard_belowname.conf``
 

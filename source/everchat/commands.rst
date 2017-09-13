@@ -22,3 +22,11 @@ Gestion du plugin
 	- ``everchat.commands.execute``
 	- ``everchat.commands.help``
 	- ``everchat.commands.reload``
+	
+Lister les icônes
+-----------------
+- **Commande :** ``/icons [argument..]``
+- **Alias :** icon
+- **Description :** Permet d'afficher la liste des icônes
+- **Permissions :** 
+	- ``everchat.commands.icons.execute``

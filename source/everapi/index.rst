@@ -10,6 +10,7 @@ EverAPI est une librairie. Il est néccessaire d'avoir EverAPI pour pouvoir util
    commands
    permissions
    configs
+   priorities
    variables
    scores
 

@@ -28,7 +28,7 @@ Supprimer un groupe
 - **Exemple :** */permgdel Admin*
 
 Groupe par défaut
-------------------
+-----------------
 - **Commande :** ``/permgdefault <groupe> <true|false> [monde]``
 - **Alias :** mangdefault
 - **Description :** Définit un groupe par défaut
@@ -51,7 +51,7 @@ Ajouter une inhéritance
 - **Commande :** ``/permgaddi <groupe> <inheritance> [monde]``
 - **Alias :** mangaddi
 - **Description :** Ajoute une inhéritance à un groupe
-- **Permission :** ``everpermissions.commands.group.inheritance.add
+- **Permission :** ``everpermissions.commands.group.inheritance.add``
 - **Exemple :** */permgaddi Admin Moderator*
 
 Retirer une inhéritance
@@ -90,7 +90,7 @@ Retirer une permission
 - **Exemple :** */permgdelp Admin everessentials.commands.ping.execute*
 
 Vérifier une permission
-----------------------
+-----------------------
 - **Commande :** ``/permgcheckp <groupe> <permission> [monde]``
 - **Alias :** mangcheckp
 - **Description :** Vérifie si un groupe a une permission
@@ -98,7 +98,7 @@ Vérifier une permission
 - **Exemple :** */permgcheckp Admin everessentials.commands.ping.execute*
 
 Liste des permissions
-----------------------
+---------------------
 - **Commande :** ``/permglistp <groupe> [monde]``
 - **Alias :** manglistp
 - **Description :** Affiche la liste des permissions d'un groupe

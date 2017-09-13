@@ -26,7 +26,7 @@ Le fichier de configuration se trouve dans : ``/config/everinformations/scoreboa
 	type=HEALTH
 	
 Configuration Avancée
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Le fichier de configuration se trouve dans : ``/config/everinformations/scoreboard/scoreboard_list.conf``
 

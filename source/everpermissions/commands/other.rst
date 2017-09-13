@@ -87,7 +87,7 @@ Retirer une permission
 - **Exemple :** */permodelp rexbut everessentials.commands.ping.execute*
 
 Vérifier une permission
-----------------------
+-----------------------
 - **Commande :** ``/permocheckp <collection> <subject> <permission> [monde]``
 - **Alias :** manocheckp
 - **Description :** Vérifie si un subject a une permission

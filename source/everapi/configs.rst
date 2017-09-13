@@ -42,7 +42,7 @@ Le fichier de configuration se trouve dans : ``/config/everapi/config.conf``
 		minZ=-30000
 	}
 	
-	# Définissez à TRUE pour activer l'utilisation des permissions pour accès à monde
+	# Active la nécessiter d'avoir la permission pour accès à monde
 	# Permission : everapi.worlds.<worldname>
 	# Utilisé par les commands (world, home, tp...)
 	world-permissions=false
